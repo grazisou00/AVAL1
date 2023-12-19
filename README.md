@@ -1,1 +1,1 @@
-Aplicação em Dart que implemente hierarquia de classes.
+Aplicação em Dart que implementa hierarquia de classes.
